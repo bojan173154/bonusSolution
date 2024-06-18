@@ -1,0 +1,4 @@
+Since i was not familiar with Tree implementation, i created a workaround.
+
+This implementation will work with the given example, but in this implementation the "tree" grows exponentially (at the root its starts with 2^0 -> 2^1 -> 2^2, and so on).
+This is not an ideal solution since i know that the tree doesn't have to grow exponentially, but i didn't want to leave this solution empty.
